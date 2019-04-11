@@ -1,0 +1,6 @@
+my_runner
+*.o
+a.out
+*.info
+*.gcda
+*.gcno
